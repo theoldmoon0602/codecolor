@@ -7,10 +7,11 @@ endif
 
 let g:colors_name = "codecolor"
 
+
 hi Identifier ctermfg=148 
 hi Function ctermfg=148
 hi Operator ctermfg=253
-hi Comment ctermfg=64 
+hi Comment ctermfg=85 
 hi Number ctermfg=157
 hi Error ctermfg=203
 hi Preproc ctermfg=171
